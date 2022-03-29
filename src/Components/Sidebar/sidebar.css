@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
 .menu-name{
     visibility: hidden;
 }
@@ -11,6 +12,9 @@
 .menu-list{
     transition: .5s;
     
+}
+.logo_name{
+    font-family: 'Lovers Quarrel', cursive;
 }
 .menu-list:hover {
    background-color: black;
