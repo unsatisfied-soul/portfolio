@@ -1,0 +1,19 @@
+.menu-name{
+    visibility: hidden;
+}
+.menu-list:hover .menu-name{
+    display: block;
+    visibility: visible;
+}
+.sidebar{
+    width: 70px;
+}
+.menu-list{
+    transition: .5s;
+    
+}
+.menu-list:hover {
+   background-color: black;
+   transition: .5s;
+   border-radius: 0px 10px 10px 0px;
+}
